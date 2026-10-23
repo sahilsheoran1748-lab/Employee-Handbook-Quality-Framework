@@ -1,0 +1,39 @@
+{
+  "project_name": "Employee Handbook Quality Framework",
+  "project_version": "1.0.0",
+  "project_type": "Document quality assurance and policy review",
+  "source_document": "data/raw/source_handbook.docx",
+  "source_format": "docx",
+  "language": "English",
+  "modules": {
+    "document_extraction": true,
+    "structure_audit": true,
+    "topic_presence_checks": true,
+    "policy_content_validation": true,
+    "manual_review_register": true,
+    "automated_tests": true
+  },
+  "validation_rules": {
+    "check_heading_numbering": true,
+    "check_empty_paragraphs": true,
+    "check_duplicate_paragraphs": true,
+    "check_topic_keywords": true,
+    "require_manual_review_for_flags": true
+  },
+  "project_paths": {
+    "raw_data": "data/raw",
+    "processed_data": "data/processed",
+    "source_code": "src",
+    "tests": "tests",
+    "validation_outputs": "outputs/validation",
+    "reports": "outputs/reports",
+    "documents": "outputs/documents",
+    "logs": "outputs/logs"
+  },
+  "limitations": [
+    "Automated checks do not establish legal compliance.",
+    "Keyword matches do not prove policy completeness or correctness.",
+    "Organization-specific policies require authorized review.",
+    "Source handbook content must not be silently changed."
+  ]
+}
