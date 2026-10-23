@@ -1,0 +1,33 @@
+{
+  "module": "src/handbook_audit.py",
+  "source_file": "source_handbook.docx",
+  "checks": {
+    "Source document exists": true,
+    "Paragraph count matches previous extraction": true,
+    "Table count matches previous extraction": true,
+    "Main heading numbering passes": true
+  },
+  "all_checks_passed": true,
+  "structure": {
+    "paragraph_count": 95,
+    "heading_count": 42,
+    "table_count": 4,
+    "duplicate_paragraph_count": 0
+  },
+  "numbering_check": {
+    "status": "PASS",
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "details": "Sequential numbering verified."
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "test_file": "tests/test_handbook_audit.py",
+  "return_code": 0,
+  "status": "PASS",
+  "stdout": "",
+  "stderr": "test_extracted_content_exists (__main__.TestHandbookAudit.test_extracted_content_exists) ... ok\ntest_extracted_content_structure (__main__.TestHandbookAudit.test_extracted_content_structure) ... ok\ntest_normalize_empty_text (__main__.TestHandbookAudit.test_normalize_empty_text) ... ok\ntest_normalize_text (__main__.TestHandbookAudit.test_normalize_text) ... ok\ntest_project_configuration (__main__.TestHandbookAudit.test_project_configuration) ... ok\ntest_readme_exists (__main__.TestHandbookAudit.test_readme_exists) ... ok\ntest_requirements_exists (__main__.TestHandbookAudit.test_requirements_exists) ... ok\n\n----------------------------------------------------------------------\nRan 7 tests in 0.001s\n\nOK\n"
+}

@@ -1,0 +1,18 @@
+{
+  "project": "Employee Handbook Quality Framework",
+  "source_file": "source_handbook.docx",
+  "generated_at_utc": "2026-10-23T16:49:44.303171+00:00",
+  "document_structure": {
+    "paragraph_count": 95,
+    "heading_count": 42,
+    "table_count": 4,
+    "repeated_paragraph_count": 0
+  },
+  "topic_presence_checks": {
+    "total": 12,
+    "found": 10,
+    "review_required": 2
+  },
+  "interpretation": "Automated structural and keyword audit only. Not a legal compliance assessment or certification.",
+  "manual_review_required": true
+}

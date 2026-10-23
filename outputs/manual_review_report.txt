@@ -1,0 +1,19 @@
+EMPLOYEE HANDBOOK — MANUAL REVIEW REGISTER
+=======================================================
+
+Source document: source_handbook.docx
+Items requiring review: 2
+
+VAL-001 — Document structure
+Finding: 5 empty paragraphs found at positions: [6, 18, 37, 49, 69]
+Recommended action: Inspect the listed paragraph positions in Word. Remove blank paragraphs only if they are unnecessary.
+
+VAL-005 — Disciplinary process
+Finding: No configured disciplinary-process phrase found; manually inspect the handbook.
+Recommended action: Manually inspect the handbook for disciplinary guidance. If the policy is absent, request HR/legal-approved wording before adding it.
+
+REVIEW GUIDANCE
+- Blank paragraphs may be intentional formatting; inspect before editing.
+- Missing keyword matches require manual content review.
+- Do not add disciplinary rules without organizational approval.
+- This report is not a legal compliance certification.

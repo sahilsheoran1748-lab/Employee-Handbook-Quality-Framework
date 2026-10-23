@@ -1,0 +1,43 @@
+{
+  "source_file": "source_handbook.docx",
+  "checks_run": 5,
+  "passed_checks": 3,
+  "review_checks": 2,
+  "findings": [
+    {
+      "check_id": "VAL-001",
+      "category": "Document structure",
+      "status": "REVIEW",
+      "details": "5 empty paragraphs found at positions: [6, 18, 37, 49, 69]"
+    },
+    {
+      "check_id": "VAL-002",
+      "category": "Heading numbering",
+      "status": "PASS",
+      "details": "Main heading numbers are sequential: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]"
+    },
+    {
+      "check_id": "VAL-003",
+      "category": "Subsection numbering",
+      "status": "PASS",
+      "details": "Checked 32 Heading 2 entries; numbering format looks consistent."
+    },
+    {
+      "check_id": "VAL-004",
+      "category": "Employee acknowledgement",
+      "status": "PASS",
+      "details": "Configured acknowledgement wording, signature/name, and date keywords found."
+    },
+    {
+      "check_id": "VAL-005",
+      "category": "Disciplinary process",
+      "status": "REVIEW",
+      "details": "No configured disciplinary-process phrase found; manually inspect the handbook."
+    }
+  ],
+  "limitations": [
+    "Keyword checks cannot establish legal compliance.",
+    "A REVIEW result requires human inspection.",
+    "No source policy content was changed."
+  ]
+}

@@ -1,0 +1,6 @@
+﻿check_id,category,status,details
+VAL-001,Document structure,REVIEW,"5 empty paragraphs found at positions: [6, 18, 37, 49, 69]"
+VAL-002,Heading numbering,PASS,"Main heading numbers are sequential: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]"
+VAL-003,Subsection numbering,PASS,Checked 32 Heading 2 entries; numbering format looks consistent.
+VAL-004,Employee acknowledgement,PASS,"Configured acknowledgement wording, signature/name, and date keywords found."
+VAL-005,Disciplinary process,REVIEW,No configured disciplinary-process phrase found; manually inspect the handbook.

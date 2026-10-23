@@ -1,0 +1,27 @@
+{
+  "project": "Employee Handbook Quality Framework",
+  "source_file": "source_handbook.docx",
+  "review_item_count": 2,
+  "items": [
+    {
+      "check_id": "VAL-001",
+      "category": "Document structure",
+      "status": "REVIEW",
+      "finding": "5 empty paragraphs found at positions: [6, 18, 37, 49, 69]",
+      "recommended_action": "Inspect the listed paragraph positions in Word. Remove blank paragraphs only if they are unnecessary."
+    },
+    {
+      "check_id": "VAL-005",
+      "category": "Disciplinary process",
+      "status": "REVIEW",
+      "finding": "No configured disciplinary-process phrase found; manually inspect the handbook.",
+      "recommended_action": "Manually inspect the handbook for disciplinary guidance. If the policy is absent, request HR/legal-approved wording before adding it."
+    }
+  ],
+  "review_guidance": [
+    "Blank paragraphs may be intentional formatting; inspect before editing.",
+    "Missing keyword matches require manual content review.",
+    "Do not add disciplinary rules without organizational approval.",
+    "This report is not a legal compliance certification."
+  ]
+}

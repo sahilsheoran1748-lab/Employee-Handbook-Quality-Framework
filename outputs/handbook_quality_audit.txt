@@ -1,0 +1,84 @@
+EMPLOYEE HANDBOOK — STRUCTURE & QUALITY AUDIT
+=======================================================
+Source: source_handbook.docx
+Non-empty paragraphs: 95
+Headings detected: 42
+Tables detected: 4
+Repeated paragraph texts: 0
+
+DETECTED HEADINGS
+-------------------------------------------------------
+[Heading 1] 1. Welcome & Corporate Governance
+[Heading 2] 1.1 Welcome Message from Leadership
+[Heading 2] 1.2 Mission, Vision & Core Values
+[Heading 2] 1.3 Purpose, Scope & Policy Ownership
+[Heading 1] 2. Employment Basics & Classifications
+[Heading 2] 2.1 Employment Classifications
+[Heading 2] 2.2 Recruitment, Joining & Documentation
+[Heading 2] 2.3 Probationary Period
+[Heading 2] 2.4 Working Hours, Attendance & Flexibility
+[Heading 1] 3. Workplace Ethics & Code of Conduct
+[Heading 2] 3.1 Professional Conduct
+[Heading 2] 3.2 Conflicts of Interest
+[Heading 2] 3.3 Confidentiality & Data Protection
+[Heading 2] 3.4 Use of Company Assets & Systems
+[Heading 2] 3.5 Respectful Workplace, Equal Opportunity & Anti-Harassment
+[Heading 2] 3.6 Gifts, Integrity & Accurate Records
+[Heading 1] 4. Attendance, Leave Policies & Time Off
+[Heading 2] 4.1 Leave Categories & Entitlements
+[Heading 2] 4.2 Requesting & Approving Leave
+[Heading 2] 4.3 Public Holidays, Extended Absence & Return to Work
+[Heading 1] 5. Compensation, Benefits & Performance
+[Heading 2] 5.1 Payroll Cycle
+[Heading 2] 5.2 Benefits & Reimbursements
+[Heading 2] 5.3 Performance Appraisal Framework
+[Heading 2] 5.4 Feedback, Development & Career Progression
+[Heading 2] 5.5 Expense & Reimbursement Integrity
+[Heading 1] 6. Workplace Safety & Grievance Redressal
+[Heading 2] 6.1 Health, Safety & Security
+[Heading 2] 6.2 Multi-Tiered Grievance Escalation Matrix
+[Heading 1] 7. Information Management & Business Continuity
+[Heading 2] 7.1 Records & Documentation
+[Heading 2] 7.2 Business Continuity & Incident Reporting
+[Heading 1] 8. Learning, Communication & Employee Responsibilities
+[Heading 2] 8.1 Training & Policy Awareness
+[Heading 2] 8.2 Communication & Collaboration
+[Heading 2] 8.3 Employee Responsibilities Summary
+[Heading 1] 9. Offboarding & Separation
+[Heading 2] 9.1 Resignation & Notice Period
+[Heading 2] 9.2 Handover & Return of Property
+[Heading 2] 9.3 Final Settlement & Employment Records
+[Heading 2] 9.4 Exit Feedback
+[Heading 1] 10. Acknowledgment & Receipt
+
+TOPIC PRESENCE CHECKS
+-------------------------------------------------------
+FOUND: Code of conduct / workplace behavior
+  Matched terms: code of conduct, professional conduct
+FOUND: Anti-harassment / respectful workplace
+  Matched terms: harassment, discrimination, respectful workplace
+FOUND: Leave and attendance
+  Matched terms: attendance
+FOUND: Compensation and payroll
+  Matched terms: compensation, payroll, salary
+FOUND: Confidentiality / information security
+  Matched terms: confidentiality, data protection
+FOUND: Performance and development
+  Matched terms: professional development
+FOUND: Grievance / reporting channels
+  Matched terms: grievance
+FOUND: Health and workplace safety
+  Matched terms: workplace safety
+REVIEW: Disciplinary process
+  Matched terms: None
+FOUND: Separation / offboarding
+  Matched terms: offboarding
+FOUND: Policy review and ownership
+  Matched terms: policy ownership, approved revisions
+REVIEW: Employee acknowledgement
+  Matched terms: None
+
+LIMITATIONS
+- Keyword presence does not prove a policy is complete, accurate, lawful, or implemented.
+- A REVIEW flag is not automatically a policy omission; manual review is required.
+- This audit does not provide legal certification.

@@ -1,0 +1,306 @@
+{
+  "source_file": "source_handbook.docx",
+  "paragraph_count": 95,
+  "heading_count": 42,
+  "headings": [
+    {
+      "text": "1. Welcome & Corporate Governance",
+      "style": "Heading 1"
+    },
+    {
+      "text": "1.1 Welcome Message from Leadership",
+      "style": "Heading 2"
+    },
+    {
+      "text": "1.2 Mission, Vision & Core Values",
+      "style": "Heading 2"
+    },
+    {
+      "text": "1.3 Purpose, Scope & Policy Ownership",
+      "style": "Heading 2"
+    },
+    {
+      "text": "2. Employment Basics & Classifications",
+      "style": "Heading 1"
+    },
+    {
+      "text": "2.1 Employment Classifications",
+      "style": "Heading 2"
+    },
+    {
+      "text": "2.2 Recruitment, Joining & Documentation",
+      "style": "Heading 2"
+    },
+    {
+      "text": "2.3 Probationary Period",
+      "style": "Heading 2"
+    },
+    {
+      "text": "2.4 Working Hours, Attendance & Flexibility",
+      "style": "Heading 2"
+    },
+    {
+      "text": "3. Workplace Ethics & Code of Conduct",
+      "style": "Heading 1"
+    },
+    {
+      "text": "3.1 Professional Conduct",
+      "style": "Heading 2"
+    },
+    {
+      "text": "3.2 Conflicts of Interest",
+      "style": "Heading 2"
+    },
+    {
+      "text": "3.3 Confidentiality & Data Protection",
+      "style": "Heading 2"
+    },
+    {
+      "text": "3.4 Use of Company Assets & Systems",
+      "style": "Heading 2"
+    },
+    {
+      "text": "3.5 Respectful Workplace, Equal Opportunity & Anti-Harassment",
+      "style": "Heading 2"
+    },
+    {
+      "text": "3.6 Gifts, Integrity & Accurate Records",
+      "style": "Heading 2"
+    },
+    {
+      "text": "4. Attendance, Leave Policies & Time Off",
+      "style": "Heading 1"
+    },
+    {
+      "text": "4.1 Leave Categories & Entitlements",
+      "style": "Heading 2"
+    },
+    {
+      "text": "4.2 Requesting & Approving Leave",
+      "style": "Heading 2"
+    },
+    {
+      "text": "4.3 Public Holidays, Extended Absence & Return to Work",
+      "style": "Heading 2"
+    },
+    {
+      "text": "5. Compensation, Benefits & Performance",
+      "style": "Heading 1"
+    },
+    {
+      "text": "5.1 Payroll Cycle",
+      "style": "Heading 2"
+    },
+    {
+      "text": "5.2 Benefits & Reimbursements",
+      "style": "Heading 2"
+    },
+    {
+      "text": "5.3 Performance Appraisal Framework",
+      "style": "Heading 2"
+    },
+    {
+      "text": "5.4 Feedback, Development & Career Progression",
+      "style": "Heading 2"
+    },
+    {
+      "text": "5.5 Expense & Reimbursement Integrity",
+      "style": "Heading 2"
+    },
+    {
+      "text": "6. Workplace Safety & Grievance Redressal",
+      "style": "Heading 1"
+    },
+    {
+      "text": "6.1 Health, Safety & Security",
+      "style": "Heading 2"
+    },
+    {
+      "text": "6.2 Multi-Tiered Grievance Escalation Matrix",
+      "style": "Heading 2"
+    },
+    {
+      "text": "7. Information Management & Business Continuity",
+      "style": "Heading 1"
+    },
+    {
+      "text": "7.1 Records & Documentation",
+      "style": "Heading 2"
+    },
+    {
+      "text": "7.2 Business Continuity & Incident Reporting",
+      "style": "Heading 2"
+    },
+    {
+      "text": "8. Learning, Communication & Employee Responsibilities",
+      "style": "Heading 1"
+    },
+    {
+      "text": "8.1 Training & Policy Awareness",
+      "style": "Heading 2"
+    },
+    {
+      "text": "8.2 Communication & Collaboration",
+      "style": "Heading 2"
+    },
+    {
+      "text": "8.3 Employee Responsibilities Summary",
+      "style": "Heading 2"
+    },
+    {
+      "text": "9. Offboarding & Separation",
+      "style": "Heading 1"
+    },
+    {
+      "text": "9.1 Resignation & Notice Period",
+      "style": "Heading 2"
+    },
+    {
+      "text": "9.2 Handover & Return of Property",
+      "style": "Heading 2"
+    },
+    {
+      "text": "9.3 Final Settlement & Employment Records",
+      "style": "Heading 2"
+    },
+    {
+      "text": "9.4 Exit Feedback",
+      "style": "Heading 2"
+    },
+    {
+      "text": "10. Acknowledgment & Receipt",
+      "style": "Heading 1"
+    }
+  ],
+  "table_count": 4,
+  "table_summary": [
+    {
+      "table_number": 1,
+      "rows": 1,
+      "columns_in_first_row": 1
+    },
+    {
+      "table_number": 2,
+      "rows": 1,
+      "columns_in_first_row": 1
+    },
+    {
+      "table_number": 3,
+      "rows": 4,
+      "columns_in_first_row": 3
+    },
+    {
+      "table_number": 4,
+      "rows": 4,
+      "columns_in_first_row": 3
+    }
+  ],
+  "duplicate_nonempty_paragraph_count": 0,
+  "duplicate_paragraphs": [],
+  "topic_checks": [
+    {
+      "topic": "Code of conduct / workplace behavior",
+      "status": "FOUND",
+      "matched_terms": [
+        "code of conduct",
+        "professional conduct"
+      ],
+      "note": "Matching wording found; substantive adequacy not verified."
+    },
+    {
+      "topic": "Anti-harassment / respectful workplace",
+      "status": "FOUND",
+      "matched_terms": [
+        "harassment",
+        "discrimination",
+        "respectful workplace"
+      ],
+      "note": "Matching wording found; substantive adequacy not verified."
+    },
+    {
+      "topic": "Leave and attendance",
+      "status": "FOUND",
+      "matched_terms": [
+        "attendance"
+      ],
+      "note": "Matching wording found; substantive adequacy not verified."
+    },
+    {
+      "topic": "Compensation and payroll",
+      "status": "FOUND",
+      "matched_terms": [
+        "compensation",
+        "payroll",
+        "salary"
+      ],
+      "note": "Matching wording found; substantive adequacy not verified."
+    },
+    {
+      "topic": "Confidentiality / information security",
+      "status": "FOUND",
+      "matched_terms": [
+        "confidentiality",
+        "data protection"
+      ],
+      "note": "Matching wording found; substantive adequacy not verified."
+    },
+    {
+      "topic": "Performance and development",
+      "status": "FOUND",
+      "matched_terms": [
+        "professional development"
+      ],
+      "note": "Matching wording found; substantive adequacy not verified."
+    },
+    {
+      "topic": "Grievance / reporting channels",
+      "status": "FOUND",
+      "matched_terms": [
+        "grievance"
+      ],
+      "note": "Matching wording found; substantive adequacy not verified."
+    },
+    {
+      "topic": "Health and workplace safety",
+      "status": "FOUND",
+      "matched_terms": [
+        "workplace safety"
+      ],
+      "note": "Matching wording found; substantive adequacy not verified."
+    },
+    {
+      "topic": "Disciplinary process",
+      "status": "REVIEW",
+      "matched_terms": [],
+      "note": "No configured keyword found; manually review whether this topic is needed."
+    },
+    {
+      "topic": "Separation / offboarding",
+      "status": "FOUND",
+      "matched_terms": [
+        "offboarding"
+      ],
+      "note": "Matching wording found; substantive adequacy not verified."
+    },
+    {
+      "topic": "Policy review and ownership",
+      "status": "FOUND",
+      "matched_terms": [
+        "policy ownership",
+        "approved revisions"
+      ],
+      "note": "Matching wording found; substantive adequacy not verified."
+    },
+    {
+      "topic": "Employee acknowledgement",
+      "status": "REVIEW",
+      "matched_terms": [],
+      "note": "No configured keyword found; manually review whether this topic is needed."
+    }
+  ],
+  "limitations": [
+    "Keyword presence does not prove a policy is complete, accurate, lawful, or implemented.",
+    "A REVIEW flag is not automatically a policy omission; manual review is required.",
+    "This audit does not provide legal certification."
+  ]
+}

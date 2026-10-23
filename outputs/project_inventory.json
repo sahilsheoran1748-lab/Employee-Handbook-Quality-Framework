@@ -1,0 +1,93 @@
+{
+  "project": "Employee Handbook Quality Framework",
+  "required_file_count": 17,
+  "present_file_count": 17,
+  "missing_files": [],
+  "files": [
+    {
+      "path": "README.md",
+      "exists": true,
+      "size_bytes": 3762
+    },
+    {
+      "path": "requirements.txt",
+      "exists": true,
+      "size_bytes": 26
+    },
+    {
+      "path": "project_config.json",
+      "exists": true,
+      "size_bytes": 1270
+    },
+    {
+      "path": "data/raw/source_handbook.docx",
+      "exists": true,
+      "size_bytes": 44989
+    },
+    {
+      "path": "data/processed/extracted_handbook_content.json",
+      "exists": true,
+      "size_bytes": 24423
+    },
+    {
+      "path": "data/processed/extracted_handbook_text.txt",
+      "exists": true,
+      "size_bytes": 17710
+    },
+    {
+      "path": "src/handbook_audit.py",
+      "exists": true,
+      "size_bytes": 2259
+    },
+    {
+      "path": "tests/test_handbook_audit.py",
+      "exists": true,
+      "size_bytes": 1548
+    },
+    {
+      "path": "outputs/validation/handbook_quality_audit.json",
+      "exists": true,
+      "size_bytes": 7576
+    },
+    {
+      "path": "outputs/validation/policy_content_validation.json",
+      "exists": true,
+      "size_bytes": 1289
+    },
+    {
+      "path": "outputs/validation/manual_review_register.json",
+      "exists": true,
+      "size_bytes": 1129
+    },
+    {
+      "path": "outputs/validation/test_results.json",
+      "exists": true,
+      "size_bytes": 90
+    },
+    {
+      "path": "outputs/validation/permanent_test_run.json",
+      "exists": true,
+      "size_bytes": 843
+    },
+    {
+      "path": "outputs/validation/module_verification.json",
+      "exists": true,
+      "size_bytes": 659
+    },
+    {
+      "path": "outputs/validation/handbook_audit_summary.json",
+      "exists": true,
+      "size_bytes": 539
+    },
+    {
+      "path": "outputs/reports/handbook_quality_audit.txt",
+      "exists": true,
+      "size_bytes": 3571
+    },
+    {
+      "path": "outputs/reports/manual_review_report.txt",
+      "exists": true,
+      "size_bytes": 933
+    }
+  ]
+}
